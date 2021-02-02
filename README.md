@@ -12,5 +12,5 @@ serverParams:
   pathToHTML: public/html/test.html
 ```
 
-* pathToPic - путь до картинки, используемой для в почтовом сообщении
+* pathToPic - путь до картинки, используемой в почтовом сообщении
 * pathToHTML - путь до статической страницы

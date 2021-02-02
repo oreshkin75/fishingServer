@@ -1,0 +1,5 @@
+serverParams:
+  externalServer: 
+  serverPort: 8888
+  pathToPic: public/images/facebook.png
+  pathToHTML: public/facebook/facebook.html

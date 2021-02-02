@@ -6,10 +6,10 @@
 Файл должен быть в формате .yaml.
 ```
 serverParams:
-  externalServer: 
-  serverPort:
-  pathToPic:
-  pathToHTML:
+  externalServer: http://external.com
+  serverPort: 4444
+  pathToPic: public/images/picture.jpg
+  pathToHTML: public/html/test.html
 ```
 
 * pathToPic - путь до картинки, используемой для в почтовом сообщении
